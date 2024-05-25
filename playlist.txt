@@ -411,6 +411,7 @@ public class Playlist {
                     playlist.addPlaylistFromFile();
                     break;
                 case 11:
+                    scanner.close();
                     System.exit(0);
                     break;
                 default:
