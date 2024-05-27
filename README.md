@@ -2,7 +2,7 @@
 A java program(NOT APP) to implement and replicate the functionalities of an actual music player using data structues like linkedlist,stack and queue. 
 
 ## Aim:-
- to implement an working music player by using playlist and replicating its functionalities .
+ to implement an working music player by using playlist and replicating its functionalities.
 
 ### Functions used:-
 
